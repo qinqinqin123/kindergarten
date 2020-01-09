@@ -76,36 +76,7 @@ body{
 	/* top:30%; */
 }
 
-/* ul {
-	height:80px;
-    list-style-type: none;
-    margin: 0 0 0 0;
-    overflow: hidden;
-	background-image: url(imgs/nav-01.png);
-	background-size: contain;
-	position: -webkit-sticky;
-	position: relative;
-	z-index: 5;
-}
 
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: #666;
-	text-align: left;
-	padding: 15px 50px 0px 50px;
-	font-size: 12pt;
-    text-decoration: none;
-} */
-/* 
-* {
-	margin: 0px;
-	padding: 0px;
-	box-sizing: border-box;
-  } */
 
 .menu {
   color:#457687;
@@ -121,11 +92,12 @@ li a {
   padding: 10px 3% 30px 3%;
   width: 100%;
   font-family: 'Montserrat', sans-serif;
-  
 }
+
 .menu:hover {
   pointer-events: all;
 }
+
 .label {
   display: inline-block;
   cursor: pointer;
@@ -148,9 +120,11 @@ li a {
   font-size: 8pt;
   font-family: 'Montserrat', sans-serif;
 }
+
 span {
   transition: color 0.5s ease;
 }
+
 .item:hover span {
   color: #ff0000;
 }
